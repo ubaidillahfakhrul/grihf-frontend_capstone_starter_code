@@ -1,4 +1,4 @@
-Medical Appointment Booking
+## Medical Appointment Booking
 <pre> 
   bash grifh-frontend_capstone_starter_code/ 
   ├── Landing_Page/ 
@@ -14,3 +14,5 @@ Medical Appointment Booking
   │ ├── Sign_Up.css 
   │ └── Sign_Up.html
 </pre>
+
+#### Medical Appointment Booking
