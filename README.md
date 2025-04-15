@@ -5,14 +5,14 @@
   │  ├── LandingPage.css 
   │  └── LandingPage.html 
   ├── Login/ 
-  │ ├── Login.css 
-  │ └── Login.html 
+  │  ├── Login.css 
+  │  └── Login.html 
   ├── NavBar/ 
-  │ ├── Navbar.css 
-  │ └── Navbar.html 
+  │  ├── Navbar.css 
+  │  └── Navbar.html 
   ├── Sign_up/ 
-  │ ├── Sign_Up.css 
-  │ └── Sign_Up.html
+  │  ├── Sign_Up.css 
+  │  └── Sign_Up.html
 </pre>
 
 #### Medical Appointment Booking
